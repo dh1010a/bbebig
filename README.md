@@ -18,6 +18,19 @@
 
 디자인과 기획을 참고하여 개발에만 집중할 수 있도록 클론 프로젝트 방식을 선택했습니다.
 
+## 🏛️ 백엔드 아키텍처
+
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/d2529736-4314-4dd9-9b9e-cdb5a8c050f5" />
+
+## Kafka 이벤트 흐름
+
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/330355dc-a777-44d2-8570-a8f3d1a6d1e9" />
+
+## Redis 스키마
+
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/d7d7ef05-4c0e-4088-af45-0d14d73fde9b" />
+
+
 ## 💁 작업에 참여하는 방법
 
 필요한 기능 및 버그를 미리 작성된 템플릿을 기반으로 이슈를 생성합니다. 작업량에 따라 PR, Commit 컨벤션에 맞게 작성을 진행합니다.
